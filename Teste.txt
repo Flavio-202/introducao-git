@@ -1,14 +1,4 @@
-Oi, teste de repositório local e remoto.
-
-git remote add origin https://github.com/Flavio-202/introducao-git.git
-
-
-git remote add origin https://github.com/Flavio-202/introducao-git.git
-git branch -M main
-git push -u origin main
-
-
-olá ....
+A commit é basicamente um passo a passo do que foi feio no meu código. Pode ser coisas que eu alterei ou coisas que acrescentei.
 
 
 
