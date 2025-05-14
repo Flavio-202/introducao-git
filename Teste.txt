@@ -1,0 +1,28 @@
+Oi, teste de repositório local e remoto.
+
+git remote add origin https://github.com/Flavio-202/introducao-git.git
+
+
+git remote add origin https://github.com/Flavio-202/introducao-git.git
+git branch -M main
+git push -u origin main
+
+
+olá ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
