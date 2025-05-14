@@ -1,5 +1,7 @@
 A commit é basicamente um passo a passo do que foi feio no meu código. Pode ser coisas que eu alterei ou coisas que acrescentei.
 
+Comando: git checkout -b (nome da brench)
+
 
 
 
